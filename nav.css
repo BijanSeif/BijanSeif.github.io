@@ -4,7 +4,8 @@ nav{
     position: sticky;
     top: 0;
     background-color: black;
-    border-radius: 10px
+    border-radius: 10px;
+    z-index: 100;
     
 }
 nav a{

@@ -1,6 +1,29 @@
 main {
     display: block;
     background-color: white;
-    height: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    height: 200px;
+}
+main div{
+    display: inline-block;
     
+    }
+
+main #lftpnl{
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    left:10px;
+    top: 0;
+}
+
+main #rgtpnl{
+    background-color: green;
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    right:10px;
+    top: 0;
 }

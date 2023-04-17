@@ -24,6 +24,9 @@ body #Name{
     font-size: 30px;
     font-family: serif;
 }
+body #Name:hover{
+    background-color: yellow
+}
 
 #coverimg{
     display: block;
@@ -32,6 +35,3 @@ body #Name{
     border-radius: 15px;
 }
 
-#coverimg:hover{
-    background-color: yellow
-}
