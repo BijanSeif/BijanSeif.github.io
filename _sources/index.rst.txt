@@ -1,0 +1,36 @@
+.. _home:
+
+OpenSRANE (Open Software for Risk Assessment of NaTech Events)
+==============================================================
+OpenSRANE is an open-source, extensible, flexible and object-oriented software for calculating the quantitative risk of NaTech events in process plants.
+
+
+.. _user-manual:
+
+Applications for Users
+----------------------
+
+In this part the procedure of modelling and usage of the program has been described for users and steps of modelling has been explained.
+
+.. toctree::
+   :maxdepth: 1
+   :numbered: 5
+
+   user/installation   
+
+
+.. _developer-manual:
+
+Framework for Developer
+-----------------------
+
+The OpenSRANE framework is presented in the following chapters for developers wishing to create their own applications or extend the existing applications.
+
+.. toctree::
+   :maxdepth: 2
+   :numbered: 3
+
+   developer/sourceCode
+
+
+
